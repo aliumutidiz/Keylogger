@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "QF0A5qCjeBdmReM9SZELIeqsFn+392VHWgzvMaQrcAdsWrcd0WCZGfyDxT4xLpYD1GMaTfuSPSeeHZ19gIFeZQ==",
+  "success": true,
+  "projectFilePath": "D:\\Windows\\Masaüstü\\Visual Studio\\source\\repos 2023\\Byte Simple Keylogger\\Byte Simple Keylogger\\Byte Simple Keylogger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\umuti\\.nuget\\packages\\inputsimulator\\1.0.4\\inputsimulator.1.0.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'InputSimulator 1.0.4' paketi, proje hedef çerçevesi 'net6.0-windows7.0' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "InputSimulator",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

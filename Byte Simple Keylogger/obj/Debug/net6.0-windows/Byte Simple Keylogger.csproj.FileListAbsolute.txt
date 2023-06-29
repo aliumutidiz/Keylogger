@@ -1,0 +1,19 @@
+D:\Windows\Masaüstü\Visual Studio\source\repos 2023\Byte Simple Keylogger\Byte Simple Keylogger\bin\Debug\net6.0-windows\Byte Simple Keylogger.exe
+D:\Windows\Masaüstü\Visual Studio\source\repos 2023\Byte Simple Keylogger\Byte Simple Keylogger\bin\Debug\net6.0-windows\Byte Simple Keylogger.deps.json
+D:\Windows\Masaüstü\Visual Studio\source\repos 2023\Byte Simple Keylogger\Byte Simple Keylogger\bin\Debug\net6.0-windows\Byte Simple Keylogger.runtimeconfig.json
+D:\Windows\Masaüstü\Visual Studio\source\repos 2023\Byte Simple Keylogger\Byte Simple Keylogger\bin\Debug\net6.0-windows\Byte Simple Keylogger.dll
+D:\Windows\Masaüstü\Visual Studio\source\repos 2023\Byte Simple Keylogger\Byte Simple Keylogger\bin\Debug\net6.0-windows\Byte Simple Keylogger.pdb
+D:\Windows\Masaüstü\Visual Studio\source\repos 2023\Byte Simple Keylogger\Byte Simple Keylogger\bin\Debug\net6.0-windows\WindowsInput.dll
+D:\Windows\Masaüstü\Visual Studio\source\repos 2023\Byte Simple Keylogger\Byte Simple Keylogger\obj\Debug\net6.0-windows\Byte Simple Keylogger.csproj.AssemblyReference.cache
+D:\Windows\Masaüstü\Visual Studio\source\repos 2023\Byte Simple Keylogger\Byte Simple Keylogger\obj\Debug\net6.0-windows\Byte_Simple_Keylogger.Form1.resources
+D:\Windows\Masaüstü\Visual Studio\source\repos 2023\Byte Simple Keylogger\Byte Simple Keylogger\obj\Debug\net6.0-windows\Byte Simple Keylogger.csproj.GenerateResource.cache
+D:\Windows\Masaüstü\Visual Studio\source\repos 2023\Byte Simple Keylogger\Byte Simple Keylogger\obj\Debug\net6.0-windows\Byte Simple Keylogger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows\Masaüstü\Visual Studio\source\repos 2023\Byte Simple Keylogger\Byte Simple Keylogger\obj\Debug\net6.0-windows\Byte Simple Keylogger.AssemblyInfoInputs.cache
+D:\Windows\Masaüstü\Visual Studio\source\repos 2023\Byte Simple Keylogger\Byte Simple Keylogger\obj\Debug\net6.0-windows\Byte Simple Keylogger.AssemblyInfo.cs
+D:\Windows\Masaüstü\Visual Studio\source\repos 2023\Byte Simple Keylogger\Byte Simple Keylogger\obj\Debug\net6.0-windows\Byte Simple Keylogger.csproj.CoreCompileInputs.cache
+D:\Windows\Masaüstü\Visual Studio\source\repos 2023\Byte Simple Keylogger\Byte Simple Keylogger\obj\Debug\net6.0-windows\Byte Simple Keylogger.csproj.CopyComplete
+D:\Windows\Masaüstü\Visual Studio\source\repos 2023\Byte Simple Keylogger\Byte Simple Keylogger\obj\Debug\net6.0-windows\Byte Simple Keylogger.dll
+D:\Windows\Masaüstü\Visual Studio\source\repos 2023\Byte Simple Keylogger\Byte Simple Keylogger\obj\Debug\net6.0-windows\refint\Byte Simple Keylogger.dll
+D:\Windows\Masaüstü\Visual Studio\source\repos 2023\Byte Simple Keylogger\Byte Simple Keylogger\obj\Debug\net6.0-windows\Byte Simple Keylogger.pdb
+D:\Windows\Masaüstü\Visual Studio\source\repos 2023\Byte Simple Keylogger\Byte Simple Keylogger\obj\Debug\net6.0-windows\Byte Simple Keylogger.genruntimeconfig.cache
+D:\Windows\Masaüstü\Visual Studio\source\repos 2023\Byte Simple Keylogger\Byte Simple Keylogger\obj\Debug\net6.0-windows\ref\Byte Simple Keylogger.dll
