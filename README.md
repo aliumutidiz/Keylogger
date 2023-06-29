@@ -22,7 +22,7 @@ These instructions include the steps required to run or develop the project in a
 ### Requirements
 
 - Windows operating system
-- .NET Framework version 4.5 or above
+- .NET Framework version 6.0 or above
 - Visual Studio or your preferred C# development environment
 
 ### Installation
