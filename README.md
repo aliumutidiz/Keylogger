@@ -1,8 +1,11 @@
-# Byte Simple Keylogger
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/768758523172749344/1123924911644213248/eflatun_cerceveli.png?width=669&height=671" alt="Proje Logo" width="250" height="250">
+</p>
+
+<h1 align="center">Byte Simple Keylogger</h1>
 
 
-
-Byte Simple Keylogger is a C# based project that provides a simple tool for users to monitor and record keystrokes on a specific computer. The purpose of this project is to provide users with a basic framework that they can customize according to their own needs.
+Byte Simple Keylogger is a C# based project that provides a simple tool for users to monitor and record keystrokes on a specific computer. The purpose of this project is to provide a basic keylogger that users can easily modify and customize according to their specific requirements. Byte Simple Keylogger is a C# based project that allows monitoring and recording of keyboard keystrokes. Its flexible nature enables developers to tailor the keylogger to their needs and preferences. However, it is important to note that users should always use the keylogger in compliance with legal and ethical guidelines, and obtain necessary permissions when monitoring keystrokes of others.
 
 **Warning: Please use this software only for legal and ethical purposes. Monitoring keystrokes without the permission of others may be illegal.**
 
@@ -49,10 +52,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-If you need more information about the project, please visit the [wiki](https://github.com/aliumutidiz/Byte-Simple-Keylogger/wiki) page.
 
-The purpose of this project is to provide a basic keylogger that users can easily modify and customize according to their specific requirements. Byte Simple Keylogger is a C# based project that allows monitoring and recording of keyboard keystrokes. Its flexible nature enables developers to tailor the keylogger to their needs and preferences. However, it is important to note that users should always use the keylogger in compliance with legal and ethical guidelines, and obtain necessary permissions when monitoring keystrokes of others.
 
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/768758523172749344/1123924911644213248/eflatun_cerceveli.png?width=669&height=671" alt="Proje Logo" width="250" height="250">
-</p>
+
+
